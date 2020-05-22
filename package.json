@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "cliff",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nodemon": "^2.0.4",
+    "uuid": "^8.1.0"
+  }
+}
